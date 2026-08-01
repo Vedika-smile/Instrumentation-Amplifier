@@ -31,7 +31,7 @@ A_D = (R2/R1) · (1 + 2Rf/RG)
 
 ## Schematics
 
-- [OPAMP Schematic](Schematics/opamp_schematic.png)
+- [OPAMP Schematic](Schematics/opamp_Schematic.png)
 - [OPAMP Symbol](Schematics/opamp_symbol.png)
 - [Full Instrumentation Amplifier Schematic](Schematics/IA_schematic.png)
 - [LTspice Simulation Schematic](Schematics/ltSpice_schematic.png)
