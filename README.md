@@ -31,20 +31,20 @@ A_D = (R2/R1) · (1 + 2Rf/RG)
 
 ## Schematics
 
-- [OPAMP Schematic](opamp_schematic.png)
-- [OPAMP Symbol](opamp_symbol.png)
-- [Full Instrumentation Amplifier Schematic](full_inamp_schematic.png)
-- [LTspice Simulation Schematic](ltspice_schematic.png)
+- [OPAMP Schematic](Schematics/opamp_schematic.png)
+- [OPAMP Symbol](Schematics/opamp_symbol.png)
+- [Full Instrumentation Amplifier Schematic](Schematics/IA_schematic.png)
+- [LTspice Simulation Schematic](Schematics/ltSpice_schematic.png)
 
 ## Simulation Results
 
 **Transient Analysis** — differential inputs and amplified output:
 
-![Transient Analysis](transient_analysis.png)
+![Transient Analysis](Simulation_results/transient_analysis.png)
 
 **AC Analysis — Gain & Phase:**
 
-![AC Gain Phase](ac_gain_phase.png)
+![AC Gain Phase](Simulation_results/ac_gain_phase.png)
 
 - Differential gain: ~20 dB at 1.8V
 - Bandwidth: ~1.9 MHz (TT corner)
